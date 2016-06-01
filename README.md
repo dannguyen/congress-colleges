@@ -7,7 +7,7 @@ http://beta-congress-colleges-fun.s3-website-us-east-1.amazonaws.com/
 
 This is an example of a (very simple) final project for the [Stanford Computational Journalism class](http://www.compjour.org).
 
-
+It's a work in progress. Needs more slicing-and-dicing (e.g. how many Senators vs. Representatives for a given school?) and views (show all current Congressmembers, including those who don't have any affiliation with these fancy schools). The original goal was to list all colleges...but if you look at the [raw unstructured data](data/raw/bioguide), you'd see what that's not so straightforward...
 
 
 ## The data
