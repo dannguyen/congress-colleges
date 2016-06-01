@@ -1,11 +1,21 @@
+"""
+Creates:
+
+    data/wrangled/top-colleges-legislators.json
+    data/wrangled/top-colleges.json
+
+"""
+
 from collections import OrderedDict, defaultdict
 from pathlib import Path
+from copy import copy
 import csv
 import json
 import re
 import yaml
 CURRENT_CONGRESS_ENDYEAR = 2017
 DEST_PATH = Path('data', 'wrangled', 'top-college-legislators.json')
+DEST_SCHOOLS_PATH = Path('data', 'wrangled', 'top-colleges.json')
 DEST_PATH.parent.mkdir(parents=True, exist_ok=True)
 TEXT_DIR = Path('data', 'raw', 'bioguide', 'text')
 
@@ -13,7 +23,11 @@ HISTORICAL_MEMBERS_PATH = Path('data', 'raw', 'unitedstates', 'legislators-histo
 CURRENT_MEMBERS_PATH = Path('data', 'raw', 'unitedstates', 'legislators-current.yaml')
 TOP_SCHOOLS_PATH = Path('data', 'usnews', 'top_schools.csv')
 
-top_schools = list(csv.DictReader(TOP_SCHOOLS_PATH.read_text().splitlines())):
+top_schools = list(csv.DictReader(TOP_SCHOOLS_PATH.read_text().splitlines()))
+for t in top_schools:
+    t['legislators'] = []
+    t['rank'] = int(t['rank'])
+    t['slug'] = re.sub(r'\W+', '-', t['name'].lower())
 
 counted_members = []
 print("Reading current members")
@@ -41,6 +55,8 @@ for m in counted_members:
     else:
         continue # skip delegates
     ###
+    w['first_term_start'] = m['terms'][0]['start']
+    w['last_term_end'] = last_term['end']
     w['party'] = last_term['party']
     w['state'] = last_term['state']
     w['district'] = last_term.get('district')
@@ -49,6 +65,7 @@ for m in counted_members:
     # add boilerplate info
     w['last_name'] = m['name']['last']
     w['first_name'] = m['name']['first']
+    w['full_name'] = w['first_name'] + ' '  + w['last_name']
     w['gender'] = m['bio']['gender']
     w['birthday'] = m['bio'].get('birthday')
 
@@ -65,6 +82,12 @@ for m in counted_members:
             if school['name'] in line or (school['alias_pattern'] and
                  re.compile(school['alias_pattern']).search(line)):
                     w['top-schools'][school['name']].append(line)
+                    # let's add it to tops_chools collection...damn this is sloppy
+                    _x = {'bioguide_id': w['bioguide_id'], 'in_office': w['in_office'],
+                          'type': w['type'], 'state': w['state'], 'party': w['party'], 'full_name' : w['full_name']}
+                    if _x not in school['legislators']:
+                        school['legislators'].append(_x) # so so sloppy
+
 
     schooled_members.append(w)
 
@@ -74,5 +97,5 @@ print(len([s for s in schooled_members if s['top-schools']]), 'legislators have 
 
 
 DEST_PATH.write_text(json.dumps(schooled_members, indent=2))
-
+DEST_SCHOOLS_PATH.write_text(json.dumps(top_schools, indent=2))
 

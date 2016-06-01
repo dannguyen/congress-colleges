@@ -1,0 +1,84 @@
+
+{% include 'partials/head.html' %}
+
+
+<section id="woz-content">
+  <div class="container">
+    <section class="sec">
+        <h1 class="page-title">Which Congressmembers Have the Best College Hookups?</h1>
+        <p>
+           This app mashes up the biographies of every U.S. Congressmember since 1950 with the top 25 national universities and liberal arts colleges, as ranked by <a href="http://colleges.usnews.rankingsandreviews.com/best-colleges">U.S. News and World Report</a>.
+
+        </p>
+
+        <p>(This is a work in progress; see the repo at <a href="https://github.com/dannguyen/congress-colleges">https://github.com/dannguyen/congress-colleges</a>)</p>
+
+    </section>
+
+
+    <section class="sec">
+        <p>The table below lists each school's <a href="http://colleges.usnews.rankingsandreviews.com/best-colleges">USN&amp;WR rank</a>
+            and the number of U.S. Congressmembers who have some kind of affiliation with the school (not necessarily a degree)
+        </p>
+
+            <div class="row">
+            <div class="col-sm-6">
+                <h3>National Universities</h3>
+                <table class="schools-list table table-bordered table-striped table-condensed">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th class="right">USN&amp;WR Rank</th>
+                            <th class="right">Legislators</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        {% for school in national_universities %}
+                            <tr class="school">
+                                <td class="name"><a href="{{url_for('schools', slug=school.slug)}}">{{ school.name }}</a></td>
+                                <td class="rank right">{{ school.rank }}</td>
+                                <td class="legislators-count right">{{school.legislators | count }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+
+                <p><a href="http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-universities">See the full rankings at U.S. News &amp; World Report</a></p>
+            </div>
+            <div class="col-sm-6">
+                <h3>Liberal Arts Schools</h3>
+
+                <table class="schools-list table table-condensed table-striped table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th class="right">USN&amp;WR Rank</th>
+                            <th class="right">Legislators</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        {% for school in liberal_arts_schools %}
+                            <tr class="school">
+                                <td class="name"><a href="{{url_for('schools', slug=school.slug)}}">{{ school.name }}</a></td>
+                                <td class="rank right">{{ school.rank }}</td>
+                                <td class="legislators-count right">{{school.legislators | count }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+
+                <p><a href="http://colleges.usnews.rankingsandreviews.com/best-colleges/rankings/national-liberal-arts-colleges">See the full rankings at U.S. News &amp; World Report</a></p>
+            </div>
+        </div>
+    </section>
+
+
+
+
+</div>
+
+</section>
+
+{% include 'partials/foot.html' %}

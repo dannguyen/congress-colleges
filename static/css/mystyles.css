@@ -1,0 +1,118 @@
+body{
+
+}
+
+.mugshot{
+  max-width: 100%;
+}
+
+table.schools-list th{
+  font-size: 12px;
+}
+
+ .table-bordered th,
+ .table-bordered td {
+   border: 1px solid #ccc;
+ }
+
+
+.table-condensed tbody td, .table-condensed thead th{
+  padding: 0.3rem;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #eee;
+}
+
+.right{
+  text-align: right;
+}
+
+.sec{
+  margin-bottom: 2.4em;
+}
+
+
+header#woz-header{
+  margin-bottom: 2.0em;
+  margin-top: 0.5em;
+}
+
+header#woz-header h1{
+  font-size: 1.1em;
+  font-weight: bold;
+  color: white;
+}
+
+
+
+footer#woz-footer{
+  margin-top: 2.0em;
+  padding: 1.5em 0;
+  min-height: 200px;
+  font-size: 0.9rem;
+  border-top: #777;
+  background: #333;
+  color: white;
+}
+
+footer#woz-footer p{
+  margin-bottom: 0.6em;
+}
+
+
+.deck{
+  font-size: 1.2rem;
+}
+
+.deck .rank, .deck .category{
+  font-weight: bold;
+}
+
+td.name{
+  text-align: left;
+}
+
+td.rank, td.legislators-count{
+  text-align: right;
+}
+
+
+tr.legislator td{
+  vertical-align: top;
+}
+
+tr.legislator td.name{
+  width: 25%;
+}
+
+tr.legislator.Republican td{
+  background: #ffdddd;
+}
+
+tr.legislator.Democrat td{
+  background: #ddddff;
+}
+
+tr.legislator.in_office td.name, tr.legislator.in_office td.type{
+  font-weight: bold;
+}
+
+tr.legislator td.type .party{
+  font-size: 0.8rem;
+  font-weight: italic;
+}
+
+tr.legislator td.bioguide-text{
+  font-size: 0.9rem;
+  font-style: italic;
+}
+
+td.bioguide-text blockquote{
+  margin-left: 0.4em;
+}
+
+td.bioguide-text blockquote::before{
+  content: " ...";
+}
+

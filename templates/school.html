@@ -1,0 +1,75 @@
+
+{% include 'partials/head.html' %}
+
+
+<section id="woz-content">
+  <div class="container">
+    <section class="sec">
+
+        <h1 class="page-title">{{school.name}}</h1>
+        <div class="deck">
+            <div>The
+                    <span class="rank">#{{school.rank}}</span>
+                    <span class="category">{{school.category | capitalize | replace('-', ' ') }}</span>
+                    according to
+                    <a href="http://colleges.usnews.rankingsandreviews.com/best-colleges">U.S. News &amp; World Report's Best Colleges 2016</a></div>
+
+
+            <div class="">
+                Roughly <strong>{{legislators | count }}</strong> U.S. Congressmembers have been affiliated with the school, such as attending classes, earning a degree, or being employed by the school.
+            </div>
+        </div>
+
+    </section>
+
+    <section class="sec">
+            <p><em>Names in <strong>bold</strong> indicate Congressmembers who are currently in office as of May 2016.</em></p>
+
+            <table class="legislators-list table table-condensed table-bordered table-responsive">
+
+            {% for m in legislators %}
+                <tr class="legislator {{m.party}} {% if m.in_office %}in_office{% endif %}">
+                    <td class="name">
+                        <div class="row">
+                            <div class="col-xs-4">
+<!--                                 <img class="mugshot" src="https://theunitedstates.io/images/congress/225x275/{{m.bioguide_id}}.jpg" alt="img">
+
+http://bioguide.congress.gov/bioguide/photo/P/P000197.jpg
+ -->
+<img class="mugshot" src="http://bioguide.congress.gov/bioguide/photo/{{m.bioguide_id[0]}}/{{m.bioguide_id}}.jpg" alt="img">
+
+ </div>
+                            <div class="col-xs-8">
+                                {{m.first_name}}
+                                {{m.last_name}}
+                            </div>
+                        </div>
+
+
+                    </td>
+                    <td class="type">
+                        {{m.type}}
+
+                        <div class="party {{m.party}}">{{m.party}}</div>
+
+                    </td>
+                    <td class="state">{{m.state}}</td>
+                    <td class="bioguide-text">
+                            {% for line in m['top-schools'][school.name] %}
+                                <blockquote><a href="http://bioguide.congress.gov/scripts/biodisplay.pl?index={{m.bioguide_id}}">{{ line }}</a></blockquote>
+                            {% endfor %}
+
+                    </td>
+                </tr>
+            {% endfor %}
+        </table>
+
+    </section>
+
+
+
+
+  </div>
+</section>
+
+{% include 'partials/foot.html' %}
