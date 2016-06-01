@@ -8,7 +8,12 @@
         <h1 class="page-title">Congressmembers and Fancy U.S. Colleges</h1>
         <p>
            This app mashes up the text biographies of every U.S. Congressmember since <strong>1950</strong>, with the lists of top 25 national universities and liberal arts colleges, as ranked by <a href="http://colleges.usnews.rankingsandreviews.com/best-colleges">U.S. News and World Report</a>.
+        </p>
 
+        <p>
+        There is a total of <strong>{{ legislators | count }}</strong> legislators who have entered office since 1950. Of these,
+        <strong>{{ legislators | selectattr('top-schools') | list | count }}</strong>
+        have at least one affiliation with the Top USNWR schools.
         </p>
 
         <p>This is a work in progress; see the repo at <a href="https://github.com/dannguyen/congress-colleges">https://github.com/dannguyen/congress-colleges</a> for the raw data and data-wrangling Python code.</p>
@@ -17,6 +22,56 @@
 
 
     <section class="sec">
+        <h3>The USN&amp;WR Best Colleges, sorted by highest number of affiliated legislators</h3>
+
+        <div class="row">
+
+            <div class="col-sm-4">
+                        <p>The adjacent table lists the U.S. colleges with the <strong>highest number of mentions</strong> among the <a href="http://bioguide.congress.gov/">Congress Bioguide</a> entries for all legislators since 1950.
+                    </p>
+
+        <p>Note: These schools also must be in the top 25 in one of the categories used by the <a href="http://colleges.usnews.rankingsandreviews.com/best-colleges">U.S. News &amp; World Report Best Colleges</a>. Some prestigious schools, such as University of Michigan, have a lot of Congressional connections but aren't included in this table because of the arbitrary top 25 cutoff.</p>
+
+
+            </div>
+
+
+
+            <div class="col-sm-8">
+                <table class="schools-list table table-bordered table-striped table-condensed">
+                    <thead>
+                        <tr>
+                            <th>Name</th>
+                            <th class="right">USN&amp;WR Rank</th>
+                            <th class="right">Legislators</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        {% for school in most_affiliated_schools %}
+                            <tr class="school">
+                                <td class="name"><a href="{{url_for('schools', slug=school.slug)}}">{{ school.name }}</a></td>
+                                <td class="rank right">{{ school.rank }}</td>
+                                <td class="legislators-count right">{{school.legislators | count }}</td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+
+
+            </div>
+        </div>
+
+
+
+
+
+    </section>
+
+
+    <section class="sec">
+
+        <h3>Schools sorted by USN&amp;WR ranking</h3>
         <p>The table below lists each school's <a href="http://colleges.usnews.rankingsandreviews.com/best-colleges">USN&amp;WR rank</a>
             and the number of U.S. Congressmembers who have some kind of affiliation with the school (not necessarily a degree)
         </p>

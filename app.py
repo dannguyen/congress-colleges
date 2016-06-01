@@ -6,12 +6,14 @@ legislators = foo.get_legislators()
 top_schools = foo.get_schools()
 liberal_arts_schools = [s for s in top_schools if s['category'] == 'liberal-arts']
 national_universities = [s for s in top_schools if s['category'] == 'national-university']
+most_affiliated_schools = sorted(top_schools, key=lambda s: len(s['legislators']), reverse=True)[0:10]
 
 @app.route('/')
 def homepage():
     html = render_template('homepage.html',
                            legislators=legislators,
                            schools=top_schools,
+                           most_affiliated_schools=most_affiliated_schools,
                            liberal_arts_schools=liberal_arts_schools,
                            national_universities=national_universities)
     return html
