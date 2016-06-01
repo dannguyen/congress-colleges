@@ -1,50 +1,45 @@
+# Congressmembers who went to cool colleges
 
-The variations of unclear bios:
+Which of our elected representatives earned their academic stripes -- or, even worked, or at least attended classes -- at America's best colleges (as ranked by U.S. News and World Report)? 
 
+Its temporary home is here:
+http://beta-congress-colleges-fun.s3-website-us-east-1.amazonaws.com/
 
-
-# No school name
-
-B000662
-
-"studied law" but no school name;
-attended the common schools
-
-BOULDIN, James Wood, (brother of Thomas Tyler Bouldin), a Representative from Virginia; born in Charlotte County, Va., in 1792; attended the common schools; studied law; was admitted to the bar April 12, 1813, and commenced practice at Charlotte Court House, Va.; member of state house of delegates, 1825-1826; elected as a Jacksonian to the Twenty-third Congress to fill the vacancy caused by the death of Thomas T. Bouldin; reelected as a Jacksonian to the Twenty-fourth Congress; reelected as a Democrat to the Twenty-fifth Congress; and served from March 15, 1834, to March 3, 1839; chairman, Committee on District of Columbia (Twenty-fifth Congress); resumed the practice of law and also engaged in agricultural pursuits; died at his country home, “Forest Hill,” Charlotte County, Va., March 30, 1854; interment in the private burial ground on his estate.
+This is an example of a (very simple) final project for the [Stanford Computational Journalism class](http://www.compjour.org).
 
 
-# No verb, just school name
-
-P000197
-
-> PELOSI, Nancy, (daughter of Thomas D'Alesandro, Jr.), a Representative from California; born Nancy D’Alesandro in Baltimore, Md., March 26, 1940; A.B., Trinity College, 1962; 
 
 
-# School name, year, "graduated"
+## The data
 
-H000206
+This repo contains some code and data to mash up several data sources:
 
-HARKIN, Thomas Richard (Tom), a Senator and a Representative from Iowa; born in Cumming, Warren County, Iowa, November 19, 1939; attended the public schools; graduated, Iowa State University, Ames 1962; graduated, Catholic University of America Law School, Washington, D.C. 1972; admitted to the Iowa bar in 1972 and commenced practice in Des Moines;
-
-
-# Professional certificate
-
-A000069
-
-AKAKA, Daniel Kahikina, a Senator and a Representative from Hawaii; born in Honolulu, Hawaii, September 11, 1924; attended the public schools of Hawaii; graduated, Kamehameha School for Boys (high school) 1942; University of Hawaii: B.E., education 1952; professional certificate in secondary education 1953; professional school administrator’s certificate 1961; M.E., education 1966; served in United States Army 1945-1947; teacher 1953-1960; vice principal 1960; 
+- Congressmember structured biographical information from https://github.com/unitedstates/congress-legislators
+- Congressmember (unstructured) biographical information from http://bioguide.congress.gov/
+  + See the code at: 
+    + [scripts/bootstrap/fetch_bios.py](scripts/bootstrap/fetch_bios.py)
+    + [scripts/bootstrap/extract_bio_text.py](scripts/bootstrap/extract_bio_text.py)
+- [U.S. News and World Report Best Colleges of 2016](http://colleges.usnews.rankingsandreviews.com/best-colleges) - I actually just hand-copied the top 25 of both kinds of colleges and then added a regex pattern to match the variation of each school, as it might be listed in the bioguide entries, e.g. "University of California at Berkeley" and "University of California, Berkeley". It's not perfect, but most schools go by a fairly canonical and standardized name. You can see the lookup table at: [data/usnews/top_schools.csv](data/usnews/top_schools.csv)
 
 
-# Two schools in the same event
+## The wrangling
 
-I000025
+The script [scripts/bootstrap/filter_top_schools.py](scripts/bootstrap/filter_top_schools.py) contains a messy script that joins the unstructured bioguide text with proper school names.
 
-INOUYE, Daniel Ken, a Senator and a Representative from Hawaii; born in Honolulu, Hawaii, September 7, 1924; attended the public schools of Honolulu; during the Second World War volunteered as a private in 1943 and retired after much action as a captain in 1947; belatedly received the Congressional Medal of Honor on June 21, 2000, for heroism in battle during Second World War; graduated, University of Hawaii 1950 and George Washington University Law School 1952; admitted to the bar in 1953 and commenced practice in Honolulu; assistant public prosecutor in Honolulu 1953-1954; majority leader in the Territorial house of representatives 1954-1958; member of the Territorial senate 1958-1959; 
+The produced data files are in: [data/wrangled/](data/wrangled/)
 
 
-# Highschool and college
+## The app
 
-B000088
+This app is a fairly simple Flask app, not much different than the one described in the [First News App Tutorial](http://first-news-app.readthedocs.io/en/latest/).
 
-http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000088
+It contains an example of __frozen deployment__ using the [Frozen Flask library](http://first-news-app.readthedocs.io/en/latest/#act-5-hello-internet). Just run [freeze.py](freeze.py) to generate a `build/` directory that can be uploaded to any static file server, including S3.
 
-BALDWIN, Henry Alexander, a Delegate from the Territory of Hawaii; born in Paliuli, Maui County, Hawaii, January 12, 1871; attended Haiku School in Haiku, and Punahou School in Honolulu; was graduated from Phillips Academy in Andover, Mass., in 1889 and from Massachusetts Institute of Technology, Boston, Mass., in 1894; engaged in sugar planting;
+
+## Further work
+
+I ended up classifying just the USN&amp;WR schools because there are just too many variations in how the BioGuide authors chose to describe life events. But there are plenty of other things to categorize, such as how many legislators were doctors/lawyers/small-town-mayors, or served in the military, or passed the bar, etc.
+
+
+While there are 12,000+ total Congressmembers, there are enough incongruities in the biographical record (nevermind such things as colleges renaming themselves over the centuries) that it may be difficult to devise a purely machine-learning approach that isn't much more hacky and time-intensive than a focused crowd-sourced effort.
+

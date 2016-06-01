@@ -17,11 +17,12 @@ def homepage():
     return html
 
 
-@app.route('/schools/<slug>')
+@app.route('/schools/<slug>/')
 def schools(slug):
     school = next(t for t in top_schools if t['slug'] == slug)
     bids = [x['bioguide_id'] for x in school['legislators']]
     alumni = [m for m in legislators if m['bioguide_id'] in bids]
+
     xalumni = sorted(alumni, key=lambda m: (not m['in_office'], m['first_term_start'], m['last_name']))
 
     html = render_template('school.html', legislators=xalumni, school=school)

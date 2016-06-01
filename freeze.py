@@ -16,8 +16,7 @@ app.config['FREEZER_IGNORE_404_NOT_FOUND'] = True
 # have to iterate through every school to generate a school path
 @freezer.register_generator
 def schools():
-    schools = foo.get_schools()
-    for s in schools():
+    for s in foo.get_schools():
         yield {'slug': s['slug']}
 
 
