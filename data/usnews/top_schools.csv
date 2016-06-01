@@ -1,0 +1,54 @@
+rank,category,name,alias_pattern
+1,national-university,Princeton University,Princeton Law
+2,national-university,Harvard University,"Harvard(?:Law|Business|Graduate)"
+3,national-university,Yale University,"Yale Law|Yale.{1,10}School"
+4,national-university,Columbia University
+4,national-university,Stanford University,Stanford Law
+4,national-university,University of Chicago
+7,national-university,Massachusetts Institute of Technology
+8,national-university,Duke University
+9,national-university,University of Pennsylvania
+10,national-university,California Institute of Technology
+10,national-university,Johns Hopkins University
+12,national-university,Dartmouth College
+12,national-university,Northwestern University
+14,national-university,Brown University
+15,national-university,Cornell University
+15,national-university,Vanderbilt University
+15,national-university,Washington University in St. Louis,"Washington University.{1,12}St\."
+18,national-university,Rice University
+18,national-university,University of Notre Dame,Notre Dame Law
+20,national-university,University of California at Berkeley,"University of California.{1,12}Berkeley"
+21,national-university,Emory University
+21,national-university,Georgetown University
+23,national-university,Carnegie Mellon University,Carnegie-Mellon University
+23,national-university,University of California at Los Angeles,"University of California.{1,12}Los Angeles"
+23,national-university,University of Southern California
+1,liberal-arts,Williams College 
+2,liberal-arts,Amherst College 
+3,liberal-arts,Swarthmore College 
+4,liberal-arts,Bowdoin College 
+4,liberal-arts,Middlebury College 
+4,liberal-arts,Pomona College 
+4,liberal-arts,Wellesley College 
+8,liberal-arts,Carleton College 
+9,liberal-arts,Claremont McKenna College,"Claremont.{1,12}(?:School|University)" 
+9,liberal-arts,Davidson College 
+9,liberal-arts,United States Naval Academy
+12,liberal-arts,Haverford College 
+12,liberal-arts,Vassar College 
+14,liberal-arts,Hamilton College 
+14,liberal-arts,Harvey Mudd College 
+14,liberal-arts,Smith College 
+14,liberal-arts,Washington and Lee University 
+14,liberal-arts,Wesleyan University 
+19,liberal-arts,Colby College 
+19,liberal-arts,Colgate University 
+19,liberal-arts,Grinnell College 
+22,liberal-arts,United States Military Academy 
+23,liberal-arts,Macalester College 
+23,liberal-arts,Oberlin College 
+25,liberal-arts,Bates College 
+25,liberal-arts,Bryn Mawr College 
+25,liberal-arts,Colorado College 
+25,liberal-arts,Kenyon College 
