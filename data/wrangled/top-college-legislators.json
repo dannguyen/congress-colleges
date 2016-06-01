@@ -421,11 +421,11 @@
       "chair, Committee on Veterans Affairs (One Hundred Thirteenth Congress)."
     ],
     "top-schools": {
-      "University of Chicago": [
-        "B.S., University of Chicago, Chicago, Ill., 1964"
-      ],
       "Hamilton College": [
         "faculty, Hamilton College, Clinton, N.Y., 1990"
+      ],
+      "University of Chicago": [
+        "B.S., University of Chicago, Chicago, Ill., 1964"
       ],
       "Harvard University": [
         "faculty, Harvard University, Cambridge, Mass., 1989"
@@ -975,11 +975,11 @@
       "reelected in 2002, 2008, and again in 2014 for the term ending January 3, 2021."
     ],
     "top-schools": {
-      "United States Military Academy": [
-        "B.S., United States Military Academy, West Point 1971"
-      ],
       "Harvard University": [
         "M.P.P., Kennedy School of Government, Harvard University 1973"
+      ],
+      "United States Military Academy": [
+        "B.S., United States Military Academy, West Point 1971"
       ]
     }
   },
@@ -1194,11 +1194,11 @@
       "reelected in 2012 for the term ending January 3, 2019."
     ],
     "top-schools": {
-      "University of California at Los Angeles": [
-        "J.D., University of California Los Angeles, Los Angeles, Calif., 1991"
-      ],
       "Dartmouth College": [
         "A.B., Dartmouth College, Hanover, N.H., 1988"
+      ],
+      "University of California at Los Angeles": [
+        "J.D., University of California Los Angeles, Los Angeles, Calif., 1991"
       ]
     }
   },
@@ -1594,7 +1594,7 @@
       "Yale University": [
         "J.D., Yale Law School, 1993, editor-in-chief of the Yale Law Journal"
       ],
-      "Wesleyan University": [
+      "Wesleyan University of Middletown, CT": [
         "B.A., Wesleyan University, Middletown, Conn., 1987"
       ]
     }
@@ -2393,11 +2393,7 @@
       "member of the Indianapolis/Marion City-County council, 2007-2008",
       "elected as a Democrat to the One Hundred Tenth Congress, by special election, to fill the vacancy caused by the death of United States Representative Julia Carson, and reelected to the four succeeding Congresses (March 11, 2008-present)."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "M.S., Indiana Wesleyan University, Marion, Ind., 2005"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "C001051",
@@ -2603,11 +2599,11 @@
       "elected as a Democrat to the One Hundred Twelfth and to the two succeeding Congresses (January 3, 2011-present)."
     ],
     "top-schools": {
-      "Georgetown University": [
-        "J.D., Georgetown University, Washington, D.C., 1986"
-      ],
       "Brown University": [
         "B.A., Brown University, Providence, R.I., 1983"
+      ],
+      "Georgetown University": [
+        "J.D., Georgetown University, Washington, D.C., 1986"
       ]
     }
   },
@@ -3941,12 +3937,12 @@
       "elected as a Democrat to the One Hundred Fourth and to the ten succeeding Congresses (January 3, 1995-present)."
     ],
     "top-schools": {
+      "Harvard University": [
+        "attended John F. Kennedy School of Government, Harvard University, Cambridge, Mass., 1984"
+      ],
       "University of Pennsylvania": [
         "University of Pennsylvania\u0092s Wharton School, Philadelphia, Pa., 1977",
         "M.A., University of Pennsylvania\u0092s Fels School of State and Local Government, Philadelphia, Pa., 1986"
-      ],
-      "Harvard University": [
-        "attended John F. Kennedy School of Government, Harvard University, Cambridge, Mass., 1984"
       ]
     }
   },
@@ -4306,11 +4302,11 @@
       "elected as a Democrat to the One Hundred Eleventh Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Ellen Tauscher, and reelected to the two succeeding Congresses (November 3, 2009-present)."
     ],
     "top-schools": {
-      "University of California at Berkeley": [
-        "B.A., University of California, Berkeley, Calif., 1966"
-      ],
       "Harvard University": [
         "M.B.A., Harvard University, Cambridge, Mass., 1970"
+      ],
+      "University of California at Berkeley": [
+        "B.A., University of California, Berkeley, Calif., 1966"
       ]
     }
   },
@@ -4578,11 +4574,7 @@
       "mayor of Fort Worth, Tex., 1991-1995",
       "elected as a Republican to the One Hundred Fifth and to the nine succeeding Congresses (January 3, 1997-present)."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "B.S. Texas Wesleyan University, Fort Worth, Tex., 1965"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "G000386",
@@ -4804,11 +4796,11 @@
       "elected as a Republican to the One Hundred Eleventh and to the three succeeding Congresses (January 3, 2009-present)."
     ],
     "top-schools": {
-      "United States Military Academy": [
-        "B.S., United States Military Academy, West Point, N.Y., 1987"
-      ],
       "Yale University": [
         "M.P.P.M., Yale University, New Haven, Conn., 1997"
+      ],
+      "United States Military Academy": [
+        "B.S., United States Military Academy, West Point, N.Y., 1987"
       ]
     }
   },
@@ -5253,11 +5245,11 @@
       "elected as a Republican to the United States Senate in 2010 for the term ending January 3, 2017."
     ],
     "top-schools": {
-      "Northwestern University": [
-        "graduated Northwestern University, M.B.A., 1981"
-      ],
       "Dartmouth College": [
         "graduated Dartmouth College, B.A., 1979"
+      ],
+      "Northwestern University": [
+        "graduated Northwestern University, M.B.A., 1981"
       ]
     }
   },
@@ -6024,11 +6016,11 @@
       "took the oath of office on November 29, 2010."
     ],
     "top-schools": {
-      "Cornell University": [
-        "B.A., Cornell University, Ithaca, N.Y., 1981"
-      ],
       "Georgetown University": [
         "J.D., Georgetown University, Washington, D.C., 1992"
+      ],
+      "Cornell University": [
+        "B.A., Cornell University, Ithaca, N.Y., 1981"
       ]
     }
   },
@@ -6416,14 +6408,14 @@
       "chair, Committee on Ways and Means (One Hundred Eleventh Congress)."
     ],
     "top-schools": {
+      "Columbia University": [
+        "M.A., Columbia University, New York, N.Y., 1954"
+      ],
       "University of Chicago": [
         "B.A., University of Chicago, Chicago, Ill., 1952"
       ],
       "Harvard University": [
         "LL.B., Harvard University, Cambridge, Mass., 1957"
-      ],
-      "Columbia University": [
-        "M.A., Columbia University, New York, N.Y., 1954"
       ]
     }
   },
@@ -6487,14 +6479,14 @@
       "University of Notre Dame": [
         "professor, University of Notre Dame, South Bend, Ind., 2000-2001"
       ],
+      "Stanford University": [
+        "M.S., Stanford University, Stanford, Calif., 1989"
+      ],
       "Northwestern University": [
         "B.S., Northwestern University, Evanston, Ill., 1988"
       ],
       "Duke University": [
         "Ph.D., Duke University, Durham, N.C., 1998"
-      ],
-      "Stanford University": [
-        "M.S., Stanford University, Stanford, Calif., 1989"
       ]
     }
   },
@@ -8372,11 +8364,11 @@
       "elected as a Republican to the One Hundred Twelfth and to the two succeeding Congresses (January 3, 2011-present)."
     ],
     "top-schools": {
-      "United States Military Academy": [
-        "B.S., United States Military Academy, West Point, N.Y., 1986"
-      ],
       "Harvard University": [
         "J.D., Harvard University, Cambridge, Mass., 1994"
+      ],
+      "United States Military Academy": [
+        "B.S., United States Military Academy, West Point, N.Y., 1986"
       ]
     }
   },
@@ -9342,11 +9334,11 @@
       "elected as a Democrat to the One Hundred Tenth and to the four succeeding Congresses (January 3, 2007-present)."
     ],
     "top-schools": {
-      "Harvard University": [
-        "J.D., Harvard University, Cambridge, Mass., 1988"
-      ],
       "Princeton University": [
         "A.B., Princeton University, Princeton, N.J., 1984"
+      ],
+      "Harvard University": [
+        "J.D., Harvard University, Cambridge, Mass., 1988"
       ]
     }
   },
@@ -9427,11 +9419,11 @@
       "one of the managers appointed by the House of Representatives in 2009 to conduct the impeachment proceedings of Samuel B. Kent, judge of the United States District Court for the Southern District of Texas."
     ],
     "top-schools": {
-      "Harvard University": [
-        "J.D., Harvard University, Cambridge, Mass., 1985"
-      ],
       "Stanford University": [
         "B.A., Stanford University, Stanford, Calif., 1982"
+      ],
+      "Harvard University": [
+        "J.D., Harvard University, Cambridge, Mass., 1985"
       ]
     }
   },
@@ -9772,11 +9764,11 @@
       "elected as a Democrat to the One Hundred Twelfth and to the two succeeding Congresses (January 3, 2011-present)."
     ],
     "top-schools": {
-      "Harvard University": [
-        "J.D., Harvard University, Cambridge, Mass., 1992"
-      ],
       "Princeton University": [
         "A.B., Princeton University, Princeton, N.J., 1986"
+      ],
+      "Harvard University": [
+        "J.D., Harvard University, Cambridge, Mass., 1992"
       ]
     }
   },
@@ -12583,11 +12575,11 @@
       "elected as a Democrat to the One Hundred Thirteenth Congress and to the succeeding Congress (January 3, 2013-present)."
     ],
     "top-schools": {
-      "Harvard University": [
-        "J.D., Harvard University, Cambridge, Mass., 2009"
-      ],
       "Stanford University": [
         "B.S., Stanford University, Stanford, Calif., 2003"
+      ],
+      "Harvard University": [
+        "J.D., Harvard University, Cambridge, Mass., 2009"
       ]
     }
   },
@@ -12615,11 +12607,11 @@
       "elected as a Democrat to the One Hundred Thirteenth and to the succeeding Congress (January 3, 2013-present)."
     ],
     "top-schools": {
-      "Georgetown University": [
-        "J.D., Georgetown University, Washington, D.C., 1988"
-      ],
       "Columbia University": [
         "B.S., Columbia University, New York, N.Y., 1985"
+      ],
+      "Georgetown University": [
+        "J.D., Georgetown University, Washington, D.C., 1988"
       ]
     }
   },
@@ -13258,11 +13250,11 @@
       "elected as a Republican to the One Hundred Thirteenth and to the succeeding Congress (January 3, 2013-present)."
     ],
     "top-schools": {
-      "Rice University": [
-        "B.A., Rice University, Houston, Texas, 1998"
-      ],
       "Cornell University": [
         "M.B.A., Cornell University, Ithaca, N.Y., 2009"
+      ],
+      "Rice University": [
+        "B.A., Rice University, Houston, Texas, 1998"
       ]
     }
   },
@@ -13435,11 +13427,11 @@
       "elected as a Republican to the United States Senate in 2012 for the term ending January 3, 2019."
     ],
     "top-schools": {
-      "Harvard University": [
-        "graduated Harvard University, J.D., 1995"
-      ],
       "Princeton University": [
         "graduated Princeton University, B.A., 1992"
+      ],
+      "Harvard University": [
+        "graduated Harvard University, J.D., 1995"
       ]
     }
   },
@@ -13523,11 +13515,11 @@
       "elected as a Democrat to the One Hundred Thirteenth and to the succeeding Congress (January 3, 2013-present)."
     ],
     "top-schools": {
-      "Harvard University": [
-        "J.D., Harvard University, Cambridge, Mass., 2000"
-      ],
       "Stanford University": [
         "B.A., Stanford University, Stanford, Calif., 1996"
+      ],
+      "Harvard University": [
+        "J.D., Harvard University, Cambridge, Mass., 2000"
       ]
     }
   },
@@ -13582,11 +13574,7 @@
       "member of the Texas state house of representatives, 2004-2012",
       "elected as a Democrat to the One Hundred Thirteenth and to the succeeding Congress (January 3, 2013-present)."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "B.S., Texas Wesleyan University, Fort Worth, Tex., 1995"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "V000132",
@@ -15702,11 +15690,11 @@
       "elected as a Republican to the One Hundred Fourteenth Congress (January 3, 2015-present)."
     ],
     "top-schools": {
-      "Middlebury College": [
-        "B.A., Middlebury College, Middlebury, Vt., 1981"
-      ],
       "Georgetown University": [
         "J.D., Georgetown University, Washington, D.C., 1986"
+      ],
+      "Middlebury College": [
+        "B.A., Middlebury College, Middlebury, Vt., 1981"
       ]
     }
   },
@@ -16354,11 +16342,11 @@
       "interment in Chartiers Cemetery, Carnegie, Pa."
     ],
     "top-schools": {
-      "University of Pennsylvania": [
-        "student at the University of Pennsylvania 1904-1906"
-      ],
       "Princeton University": [
         "graduated from Princeton University in 1904"
+      ],
+      "University of Pennsylvania": [
+        "student at the University of Pennsylvania 1904-1906"
       ]
     }
   },
@@ -16674,11 +16662,7 @@
       "elected on November 4, 1952, as a Republican to the United States Senate for the term ending January 3, 1955, to fill the vacancy caused by the death of Kenneth S. Wherry, and served from November 5, 1952, until his death in the naval hospital at Bethesda, Md., April 12, 1954",
       "interment in Fairview Cemetery, Scottsbluff, Nebr."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "attended the Nebraska Wesleyan University 1910-1912 and graduated from the University of Nebraska in 1914"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "B000618",
@@ -17843,13 +17827,13 @@
       "interment in Woodlawn Cemetery."
     ],
     "top-schools": {
+      "Columbia University": [
+        "attended Harvard University, 1919-1921, and was graduated from the law school of Columbia University, New York City, in 1924"
+      ],
       "Massachusetts Institute of Technology": [
         "born in Clinton, Worcester County, Mass., December 15, 1898, attended Massachusetts Institute of Technology at Cambridge in 1916 and 1917"
       ],
       "Harvard University": [
-        "attended Harvard University, 1919-1921, and was graduated from the law school of Columbia University, New York City, in 1924"
-      ],
-      "Columbia University": [
         "attended Harvard University, 1919-1921, and was graduated from the law school of Columbia University, New York City, in 1924"
       ]
     }
@@ -19043,7 +19027,7 @@
       "remains were cremated."
     ],
     "top-schools": {
-      "Wesleyan University": [
+      "Wesleyan University of Middletown, CT": [
         "graduated from Wesleyan University, Middletown, Conn., 1948"
       ]
     }
@@ -20049,10 +20033,10 @@
       "interment in Washington Heights Memorial Park."
     ],
     "top-schools": {
-      "University of Chicago": [
+      "University of Southern California": [
         "was graduated from Brigham Young University, Provo, Utah, in 1914, from the University of Chicago in 1917, and from the University of Southern California in 1937"
       ],
-      "University of Southern California": [
+      "University of Chicago": [
         "was graduated from Brigham Young University, Provo, Utah, in 1914, from the University of Chicago in 1917, and from the University of Southern California in 1937"
       ]
     }
@@ -20350,11 +20334,7 @@
       "was a resident of Cambridge, Ohio, until his death on December 3, 1994",
       "interment in Northwood Cemetery, Cambridge, Ohio."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "was graduated from Ohio Wesleyan University at Delaware in 1939 and from the University of Michigan Law School at Ann Arbor in 1942"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "H000690",
@@ -21499,11 +21479,11 @@
       "interment in Memorial Park Cemetery and Crematorium, Skokie, Cook County, Ill."
     ],
     "top-schools": {
-      "Wellesley College": [
-        "teacher at Wellesley College in 1915"
-      ],
       "Columbia University": [
         "Wellesley (Mass.) College, A.B., 1914 and Columbia University, New York City, A.M., 1917"
+      ],
+      "Wellesley College": [
+        "teacher at Wellesley College in 1915"
       ]
     }
   },
@@ -21995,13 +21975,13 @@
       "interment in Arlington National Cemetery."
     ],
     "top-schools": {
+      "Columbia University": [
+        "graduated from the United States Military Academy in 1930, Massachusetts Institute of Technology in 1937, and studied international relations at Columbia University in 1945 and 1946"
+      ],
       "Massachusetts Institute of Technology": [
         "graduated from the United States Military Academy in 1930, Massachusetts Institute of Technology in 1937, and studied international relations at Columbia University in 1945 and 1946"
       ],
       "United States Military Academy": [
-        "graduated from the United States Military Academy in 1930, Massachusetts Institute of Technology in 1937, and studied international relations at Columbia University in 1945 and 1946"
-      ],
-      "Columbia University": [
         "graduated from the United States Military Academy in 1930, Massachusetts Institute of Technology in 1937, and studied international relations at Columbia University in 1945 and 1946"
       ]
     }
@@ -22272,11 +22252,7 @@
       "resided in Zanesville, Ohio, where he died October 21, 1979",
       "interment in Greenwood Cemetery."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "attended the public schools, Ohio Wesleyan University at Delaware, and George Washington University at Washington, D.C."
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "M001077",
@@ -23196,10 +23172,10 @@
       "was a resident of Woodside, Calif., until his death in Redwood City, Calif., on June 14, 1988."
     ],
     "top-schools": {
-      "Dartmouth College": [
+      "Hamilton College": [
         "attended Hamilton College, Clinton, N.Y., 1933-1936, and the Tuck School of Business Administration at Dartmouth College in 1937"
       ],
-      "Hamilton College": [
+      "Dartmouth College": [
         "attended Hamilton College, Clinton, N.Y., 1933-1936, and the Tuck School of Business Administration at Dartmouth College in 1937"
       ]
     }
@@ -23336,10 +23312,10 @@
       "cremated, ashes interred at St. Thomas Episcopal Church Cemetery, Owings Mills, Md."
     ],
     "top-schools": {
-      "Johns Hopkins University": [
+      "Princeton University": [
         "educated at Gilman School, Baltimore, Md., St. Paul\u0092s School, Concord, N.H., Princeton University, and Johns Hopkins University"
       ],
-      "Princeton University": [
+      "Johns Hopkins University": [
         "educated at Gilman School, Baltimore, Md., St. Paul\u0092s School, Concord, N.H., Princeton University, and Johns Hopkins University"
       ]
     }
@@ -24418,11 +24394,7 @@
       "died in Ann Arbor, Washtenaw County, Mich., on October 15, 1994",
       "interment in Forest Hill Cemetery, Ann Arbor, Washtenaw, Mich."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "student at Ohio Wesleyan University, 1923-1925"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "M000762",
@@ -24829,11 +24801,7 @@
       "resumed practice of law",
       "died in Alexandria, Va., on January 27, 2000."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "Wesleyan University, A.B., 1943, and St. John\u0092s Law School, LL.B., 1949"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "S000408",
@@ -24991,11 +24959,11 @@
       "was a resident of Maplewood, N.J., until his death in Livingston, N.J., on August 4, 1993."
     ],
     "top-schools": {
-      "University of Pennsylvania": [
-        "graduated from the University of Pennsylvania in 1922"
-      ],
       "Columbia University": [
         "enrolled in Columbia University in 1941 and completed courses in real-estate appraising in 1942"
+      ],
+      "University of Pennsylvania": [
+        "graduated from the University of Pennsylvania in 1922"
       ]
     }
   },
@@ -28044,11 +28012,11 @@
       "interment in Arlington National Cemetery in Virginia."
     ],
     "top-schools": {
-      "University of Notre Dame": [
-        "assistant professor of law, University of Notre Dame College of Law 1948-1949"
-      ],
       "Columbia University": [
         "received a graduate degree from Catholic University, Washington, D.C., 1939, and a law degree from Columbia University School of Law 1946"
+      ],
+      "University of Notre Dame": [
+        "assistant professor of law, University of Notre Dame College of Law 1948-1949"
       ]
     }
   },
@@ -28893,11 +28861,11 @@
       "interment in Cave Hill Cemetery."
     ],
     "top-schools": {
-      "Carleton College": [
-        "graduated from Carleton College, Northfield, Minn."
-      ],
       "Columbia University": [
         "graduated from Navy Midshipmen\u0092s School at Columbia University, New York City"
+      ],
+      "Carleton College": [
+        "graduated from Carleton College, Northfield, Minn."
       ]
     }
   },
@@ -29010,7 +28978,7 @@
       "died on July 7, 2010, in Washington, D.C."
     ],
     "top-schools": {
-      "Wesleyan University": [
+      "Wesleyan University of Middletown, CT": [
         "graduated from Wesleyan University, Middletown, Conn., in 1939"
       ]
     }
@@ -29527,11 +29495,11 @@
       "interment in Arlington National Cemetery."
     ],
     "top-schools": {
-      "Yale University": [
-        "LL.B., Yale University, 1954"
-      ],
       "Stanford University": [
         "taught at Stanford University, North Carolina State University, and City College of New York"
+      ],
+      "Yale University": [
+        "LL.B., Yale University, 1954"
       ]
     }
   },
@@ -29860,11 +29828,11 @@
       "interment in Oak City Cemetery, Bainbridge, Decatur County, Ga."
     ],
     "top-schools": {
-      "Davidson College": [
-        "graduated from Davidson College, A.B. degree, in 1927"
-      ],
       "Emory University": [
         "attended Lamar School of Law, Emory University"
+      ],
+      "Davidson College": [
+        "graduated from Davidson College, A.B. degree, in 1927"
       ]
     }
   },
@@ -30613,10 +30581,10 @@
       "interment in Maple Grove Cemetery, Findlay, Ohio."
     ],
     "top-schools": {
-      "Yale University": [
+      "Kenyon College": [
         "graduated from Kenyon College, Gambier, Ohio, in 1926, and from Yale Law School, New Haven, Conn., in 1929"
       ],
-      "Kenyon College": [
+      "Yale University": [
         "graduated from Kenyon College, Gambier, Ohio, in 1926, and from Yale Law School, New Haven, Conn., in 1929"
       ]
     }
@@ -31988,14 +31956,11 @@
       "interment at Oak Hill Cemetery, Washington, D.C."
     ],
     "top-schools": {
-      "University of Chicago": [
-        "earned a graduate degree from the University of Chicago in 1947",
-        "professor of American history at Crofton (Nebr.) High School 1936-1937, Kearney (Nebr.) High School 1937-1940, Nebraska Wesleyan University 1940-1943, Iowa State College of Agricultural and Mechanical Arts 1943-1944, University of Notre Dame 1944-1945, University of Chicago 1945-1946, and University of Wyoming 1946-1958"
-      ],
       "University of Notre Dame": [
         "professor of American history at Crofton (Nebr.) High School 1936-1937, Kearney (Nebr.) High School 1937-1940, Nebraska Wesleyan University 1940-1943, Iowa State College of Agricultural and Mechanical Arts 1943-1944, University of Notre Dame 1944-1945, University of Chicago 1945-1946, and University of Wyoming 1946-1958"
       ],
-      "Wesleyan University": [
+      "University of Chicago": [
+        "earned a graduate degree from the University of Chicago in 1947",
         "professor of American history at Crofton (Nebr.) High School 1936-1937, Kearney (Nebr.) High School 1937-1940, Nebraska Wesleyan University 1940-1943, Iowa State College of Agricultural and Mechanical Arts 1943-1944, University of Notre Dame 1944-1945, University of Chicago 1945-1946, and University of Wyoming 1946-1958"
       ]
     }
@@ -32584,12 +32549,12 @@
       "interment in Forest Lawn Memorial Park, Glendale, Los Angeles County, Calif."
     ],
     "top-schools": {
-      "University of California at Los Angeles": [
-        "attended the University of California, Los Angeles, Calif"
-      ],
       "University of Southern California": [
         "A.B., University of Southern California, Los Angeles, Calif., 1930",
         "LL.B., University of Southern California, Los Angeles, Calif., 1933"
+      ],
+      "University of California at Los Angeles": [
+        "attended the University of California, Los Angeles, Calif"
       ]
     }
   },
@@ -33553,11 +33518,11 @@
       "died on December 7, 2002, in Medford, Oreg."
     ],
     "top-schools": {
-      "Northwestern University": [
-        "attended Northwestern University School of Speech, Evanston, Ill., 1946 and 1949"
-      ],
       "Yale University": [
         "B.S., Yale University, New Haven, Conn., 1940"
+      ],
+      "Northwestern University": [
+        "attended Northwestern University School of Speech, Evanston, Ill., 1946 and 1949"
       ]
     }
   },
@@ -33697,14 +33662,14 @@
       "died on May 23, 2011, in Harding Township, N.J."
     ],
     "top-schools": {
-      "Yale University": [
-        "graduated from Yale Law School in 1941"
-      ],
       "Columbia University": [
         "took postgraduate work in history at Columbia University in 1946 and 1947"
       ],
       "Princeton University": [
         "graduated from Princeton University in 1938"
+      ],
+      "Yale University": [
+        "graduated from Yale Law School in 1941"
       ]
     }
   },
@@ -34652,11 +34617,11 @@
       "died on July 10, 2012, in Washington, D.C."
     ],
     "top-schools": {
-      "Massachusetts Institute of Technology": [
-        "attended the public schools in Portland, Maine, and the Massachusetts Institute of Technology"
-      ],
       "United States Naval Academy": [
         "graduated from the United States Naval Academy in 1947"
+      ],
+      "Massachusetts Institute of Technology": [
+        "attended the public schools in Portland, Maine, and the Massachusetts Institute of Technology"
       ]
     }
   },
@@ -35409,11 +35374,11 @@
       "is a resident of Purchase, N.Y."
     ],
     "top-schools": {
-      "Yale University": [
-        "Yale University, A.B., 1949"
-      ],
       "Columbia University": [
         "member of advisory council, School of International Affairs, Columbia University"
+      ],
+      "Yale University": [
+        "Yale University, A.B., 1949"
       ]
     }
   },
@@ -35522,9 +35487,6 @@
     "top-schools": {
       "Northwestern University": [
         "M.D., Northwestern University Medical School, Chicago Ill., 1950"
-      ],
-      "Wesleyan University": [
-        "B.S., Illinois Wesleyan University, Bloomington, 1946"
       ]
     }
   },
@@ -35720,11 +35682,11 @@
       "died on October 1, 1995, in Washington, D.C."
     ],
     "top-schools": {
-      "Cornell University": [
-        "graduated from Cornell University Law School, Ithaca, N.Y., 1936"
-      ],
       "Dartmouth College": [
         "graduated from Dartmouth College, Hanover, N.H., 1933"
+      ],
+      "Cornell University": [
+        "graduated from Cornell University Law School, Ithaca, N.Y., 1936"
       ]
     }
   },
@@ -35963,16 +35925,16 @@
       "interment at Riverview Cemetery, Brawley, Calif."
     ],
     "top-schools": {
+      "Stanford University": [
+        "graduate work, Stanford University, Stanford, Calif.",
+        "professor at Stanford University, Stanford, Calif., 1940-1941"
+      ],
       "California Institute of Technology": [
         "B.S., California Institute of Technology, Pasadena, 1936",
         "professor at California Institute of Technology, Pasadena, 1938-1940, 1941-1946"
       ],
       "Harvard University": [
         "M.B.A., Harvard University, Cambridge, Mass., 1938"
-      ],
-      "Stanford University": [
-        "graduate work, Stanford University, Stanford, Calif.",
-        "professor at Stanford University, Stanford, Calif., 1940-1941"
       ]
     }
   },
@@ -36492,12 +36454,12 @@
       "died on May 30, 2001, in San Juan, P.R."
     ],
     "top-schools": {
-      "University of Chicago": [
-        "M.A., University of Chicago, Chicago, Ill., 1938"
-      ],
       "Georgetown University": [
         "B.L., Georgetown University, Washington, D.C., 1930",
         "M.L., Georgetown University, Washington, D.C., 1931"
+      ],
+      "University of Chicago": [
+        "M.A., University of Chicago, Chicago, Ill., 1938"
       ]
     }
   },
@@ -36531,11 +36493,7 @@
       "member, Office of Military Commissions, Department of Defense, 2003 to present",
       "is a resident of Furlong, Pa."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "B.A., Wesleyan University, 1952"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "C000228",
@@ -37187,12 +37145,12 @@
       "is a resident of Huntington, W.Va."
     ],
     "top-schools": {
-      "Swarthmore College": [
-        "A.B., Swarthmore College, Swarthmore, Pa., 1935"
-      ],
       "Columbia University": [
         "A.M., Columbia University, New York, N.Y., 1936",
         "Ph.D., Columbia University, New York, N.Y., 1940"
+      ],
+      "Swarthmore College": [
+        "A.B., Swarthmore College, Swarthmore, Pa., 1935"
       ]
     }
   },
@@ -37742,11 +37700,6 @@
     "top-schools": {
       "Northwestern University": [
         "held teaching assistantship and fellowship at Northwestern University, Evanston, Ill., 1948-1950, receiving his Ph.D. from that university in 1953"
-      ],
-      "Wesleyan University": [
-        "attended the public schools of Mitchell, S.Dak., and Dakota Wesleyan University, 1940-1942",
-        "returned to Dakota Wesleyan University and graduated in 1946",
-        "professor of history and government at Dakota Wesleyan University 1950-1953"
       ]
     }
   },
@@ -38384,10 +38337,10 @@
       "is a resident of Washington, D.C."
     ],
     "top-schools": {
-      "Harvard University": [
+      "Columbia University": [
         "graduated from Harvard University 1949 and from Columbia University Law School 1954"
       ],
-      "Columbia University": [
+      "Harvard University": [
         "graduated from Harvard University 1949 and from Columbia University Law School 1954"
       ]
     }
@@ -39089,11 +39042,11 @@
       "is a resident of Los Angeles, Calif."
     ],
     "top-schools": {
-      "University of California at Los Angeles": [
-        "B.A., University of California, Los Angeles, Calif., 1953"
-      ],
       "University of Southern California": [
         "J.D., University of Southern California School of Law, Los Angeles, Calif., 1956"
+      ],
+      "University of California at Los Angeles": [
+        "B.A., University of California, Los Angeles, Calif., 1953"
       ]
     }
   },
@@ -41325,11 +41278,11 @@
       "was a resident of Bedminster, N.J. until his death on November 17, 2001."
     ],
     "top-schools": {
-      "Georgetown University": [
-        "engaged in newspaper work in Washington, D.C., and studied at Georgetown University Foreign Service School until called to active duty as a seaman in the United States Naval Reserve in 1941"
-      ],
       "Columbia University": [
         "graduated, Columbia University Law School 1948"
+      ],
+      "Georgetown University": [
+        "engaged in newspaper work in Washington, D.C., and studied at Georgetown University Foreign Service School until called to active duty as a seaman in the United States Naval Reserve in 1941"
       ],
       "Oberlin College": [
         "graduated from Oberlin College in 1941"
@@ -41593,13 +41546,13 @@
       "is a resident of Rockford, Ill."
     ],
     "top-schools": {
-      "Bryn Mawr College": [
+      "Stanford University": [
         "visiting professor, Stanford University, 1981, University of Illinois College of Law, 1981, Brandeis University, 1985, Bryn Mawr College, 1985, Oregon State University, 1986, University of Massachusetts, 1986, and Nova University, 1987"
       ],
       "Harvard University": [
         "LL.M., Harvard University Law School, Cambridge, Mass., 1949"
       ],
-      "Stanford University": [
+      "Bryn Mawr College": [
         "visiting professor, Stanford University, 1981, University of Illinois College of Law, 1981, Brandeis University, 1985, Bryn Mawr College, 1985, Oregon State University, 1986, University of Massachusetts, 1986, and Nova University, 1987"
       ]
     }
@@ -41979,10 +41932,10 @@
       "died December 3, 1995."
     ],
     "top-schools": {
-      "Colgate University": [
+      "Yale University": [
         "graduated from Colgate University, Hamilton, N.Y., in 1941, and from Yale Law School in 1948"
       ],
-      "Yale University": [
+      "Colgate University": [
         "graduated from Colgate University, Hamilton, N.Y., in 1941, and from Yale Law School in 1948"
       ]
     }
@@ -42017,10 +41970,10 @@
       "interment at Arlington National Cemetery."
     ],
     "top-schools": {
-      "University of California at Los Angeles": [
+      "University of Southern California": [
         "attended the public schools of Los Angeles and graduated from the University of California at Los Angeles in 1942, and from the University of Southern California Law School in 1948"
       ],
-      "University of Southern California": [
+      "University of California at Los Angeles": [
         "attended the public schools of Los Angeles and graduated from the University of California at Los Angeles in 1942, and from the University of Southern California Law School in 1948"
       ]
     }
@@ -42087,11 +42040,11 @@
       "died June 27, 1997."
     ],
     "top-schools": {
-      "Colgate University": [
-        "attended Colgate University in 1933 and 1934, Ohio State University 1934-1937"
-      ],
       "University of Notre Dame": [
         "University of Notre Dame, LL.B., J.D., 1940"
+      ],
+      "Colgate University": [
+        "attended Colgate University in 1933 and 1934, Ohio State University 1934-1937"
       ]
     }
   },
@@ -42214,11 +42167,7 @@
       "Northwest Power Planning Council, 1984-1988, and served as chairman in 1987",
       "died on April 29, 2011."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "B.A., Illinois Wesleyan University, Bloomington, Ill., 1942"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "E000035",
@@ -43665,11 +43614,11 @@
       "was a resident of Pompano Beach, Fla., until his death on November 3, 1989."
     ],
     "top-schools": {
-      "University of Pennsylvania": [
-        "J.D., University of Pennsylvania Law School, Philadelphia, 1934"
-      ],
       "Columbia University": [
         "M.A., in public law and government, Columbia University, New York City, 1938"
+      ],
+      "University of Pennsylvania": [
+        "J.D., University of Pennsylvania Law School, Philadelphia, 1934"
       ]
     }
   },
@@ -44141,12 +44090,12 @@
       "interment in Holy Rood Cemetery, Garden City, N.Y."
     ],
     "top-schools": {
-      "Harvard University": [
-        "LL.B., Harvard University Law School, 1950"
-      ],
       "Brown University": [
         "attended West School of Long Beach, Long Beach High School, and Brown University, Providence, R.I.",
         "resumed studies at Brown University until 1947"
+      ],
+      "Harvard University": [
+        "LL.B., Harvard University Law School, 1950"
       ]
     }
   },
@@ -46377,12 +46326,12 @@
       "is a resident of Alexandria, Va."
     ],
     "top-schools": {
+      "Cornell University": [
+        "Cornell University, Ithaca, N.Y., 1963"
+      ],
       "Colgate University": [
         "B.A., Colgate University, Hamilton, N.Y., 1960",
         "graduate work, Colgate University, 1960"
-      ],
-      "Cornell University": [
-        "Cornell University, Ithaca, N.Y., 1963"
       ]
     }
   },
@@ -46454,11 +46403,11 @@
       "private burial."
     ],
     "top-schools": {
-      "Yale University": [
-        "attended Yale University"
-      ],
       "Haverford College": [
         "graduated from Haverford College (Pa.) in 1944"
+      ],
+      "Yale University": [
+        "attended Yale University"
       ]
     }
   },
@@ -46601,13 +46550,13 @@
       "is a resident of Woodside, Calif."
     ],
     "top-schools": {
-      "California Institute of Technology": [
-        "attended Occidental College and California Institute of Technology under Navy V-5 Pilot Program"
-      ],
       "Stanford University": [
         "B.A., Stanford University, Stanford, Calif., 1950",
         "Stanford University Law School, Stanford, Calif., 1953",
         "lecturer on legal ethics, Santa Clara and Stanford Law Schools, 1964-1967 and 1988-1994"
+      ],
+      "California Institute of Technology": [
+        "attended Occidental College and California Institute of Technology under Navy V-5 Pilot Program"
       ]
     }
   },
@@ -48481,12 +48430,12 @@
       "is a resident of Lake Norman, N.C."
     ],
     "top-schools": {
+      "Princeton University": [
+        "Ph.D., Princeton University, Princeton, N.J., 1960"
+      ],
       "Davidson College": [
         "B.S., Davidson College, Davidson, N.C., 1957",
         "faculty, Davidson College, Davidson, N.C., 1960-1970"
-      ],
-      "Princeton University": [
-        "Ph.D., Princeton University, Princeton, N.J., 1960"
       ]
     }
   },
@@ -48519,11 +48468,11 @@
       "was a resident of Marietta, Ga."
     ],
     "top-schools": {
-      "Davidson College": [
-        "Davidson College, N.C., 1951-1953"
-      ],
       "Emory University": [
         "M. D., Emory University School of Medicine, Atlanta, Ga., 1957"
+      ],
+      "Davidson College": [
+        "Davidson College, N.C., 1951-1953"
       ]
     }
   },
@@ -48659,11 +48608,11 @@
       "is a resident of Mamaroneck, N.Y."
     ],
     "top-schools": {
-      "Cornell University": [
-        "B.A., Cornell University, 1950"
-      ],
       "Georgetown University": [
         "took postgraduate study in international law, Georgetown University, 1960-1961"
+      ],
+      "Cornell University": [
+        "B.A., Cornell University, 1950"
       ]
     }
   },
@@ -50502,11 +50451,11 @@
       "interment in Resurrection Cemetery, Lockport, Ill."
     ],
     "top-schools": {
-      "Northwestern University": [
-        "A.B., Northwestern University, Evanston, Ill., 1939"
-      ],
       "Yale University": [
         "J.D., Yale Law School, 1947"
+      ],
+      "Northwestern University": [
+        "A.B., Northwestern University, Evanston, Ill., 1939"
       ]
     }
   },
@@ -51578,11 +51527,11 @@
       "is a resident of Atlanta, Ga."
     ],
     "top-schools": {
-      "Davidson College": [
-        "graduated, Davidson College 1962"
-      ],
       "Emory University": [
         "graduated, Emory University School of Law 1969"
+      ],
+      "Davidson College": [
+        "graduated, Davidson College 1962"
       ]
     }
   },
@@ -52000,11 +51949,11 @@
       "was a resident of Green Farms, Conn."
     ],
     "top-schools": {
-      "Yale University": [
-        "B.A., Yale University, 1958"
-      ],
       "Princeton University": [
         "attended Princeton University, 1949-1951"
+      ],
+      "Yale University": [
+        "B.A., Yale University, 1958"
       ]
     }
   },
@@ -52435,11 +52384,11 @@
       "became president of the United Nations Foundation in 1997."
     ],
     "top-schools": {
-      "Harvard University": [
-        "graduated, Harvard University 1961"
-      ],
       "Stanford University": [
         "received a doctoral degree from Stanford University 1973"
+      ],
+      "Harvard University": [
+        "graduated, Harvard University 1961"
       ]
     }
   },
@@ -52886,10 +52835,10 @@
       "is a resident of St. Louis, Mo."
     ],
     "top-schools": {
-      "Yale University": [
+      "Princeton University": [
         "graduated from Princeton University 1958, Yale University Law School and Yale Divinity School 1963"
       ],
-      "Princeton University": [
+      "Yale University": [
         "graduated from Princeton University 1958, Yale University Law School and Yale Divinity School 1963"
       ]
     }
@@ -52956,11 +52905,7 @@
       "unsuccessful candidate for reelection in 1990 to the One Hundred Second Congress",
       "is a resident of Concord, N.H."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "attended Wesleyan University, 1960-1962"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "D000566",
@@ -53264,10 +53209,10 @@
       "died on November 10, 2007, in Bethesda, Md."
     ],
     "top-schools": {
-      "University of California at Los Angeles": [
+      "University of Southern California": [
         "graduated from Jefferson High School in 1926, from the University of California at Los Angeles in 1931, and from the University of Southern California in 1932"
       ],
-      "University of Southern California": [
+      "University of California at Los Angeles": [
         "graduated from Jefferson High School in 1926, from the University of California at Los Angeles in 1931, and from the University of Southern California in 1932"
       ]
     }
@@ -53342,11 +53287,11 @@
       "is a resident of La Porte, Ind."
     ],
     "top-schools": {
-      "University of Chicago": [
-        "M.B.A., University of Chicago School of Business, Chicago, Ill., 1977"
-      ],
       "Williams College": [
         "B.A., Williams College, Williamstown, Mass., 1975"
+      ],
+      "University of Chicago": [
+        "M.B.A., University of Chicago School of Business, Chicago, Ill., 1977"
       ]
     }
   },
@@ -53739,11 +53684,11 @@
       "is a resident of Hamden, Conn."
     ],
     "top-schools": {
-      "Massachusetts Institute of Technology": [
-        "S.B., Massachusetts Institute of Technology, Cambridge, Mass., 1965"
-      ],
       "Yale University": [
         "J.D., Yale Law School, 1973"
+      ],
+      "Massachusetts Institute of Technology": [
+        "S.B., Massachusetts Institute of Technology, Cambridge, Mass., 1965"
       ]
     }
   },
@@ -54233,12 +54178,12 @@
       "business executive, 2007-present."
     ],
     "top-schools": {
+      "Princeton University": [
+        "B.A., Princeton University, Princeton, N.J., 1968"
+      ],
       "Harvard University": [
         "M.A., Harvard University, Cambridge, Mass., 1970",
         "Ed.D., Harvard University, Cambridge, Mass., 1984"
-      ],
-      "Princeton University": [
-        "B.A., Princeton University, Princeton, N.J., 1968"
       ]
     }
   },
@@ -55832,11 +55777,11 @@
       "died on December 3, 2007, in Guaynabo, P.R."
     ],
     "top-schools": {
-      "Harvard University": [
-        "Law and Humanities Fellow, Harvard University, 1973-1974"
-      ],
       "Columbia University": [
         "LL.M., Columbia University Law School, 1966"
+      ],
+      "Harvard University": [
+        "Law and Humanities Fellow, Harvard University, 1973-1974"
       ]
     }
   },
@@ -56017,11 +55962,11 @@
       "is a resident of New York, N.Y."
     ],
     "top-schools": {
-      "Dartmouth College": [
-        "B.A., Dartmouth College, Hanover, N.H., 1947"
-      ],
       "Columbia University": [
         "commissioned a naval officer at Columbia University, 1944"
+      ],
+      "Dartmouth College": [
+        "B.A., Dartmouth College, Hanover, N.H., 1947"
       ]
     }
   },
@@ -56483,11 +56428,11 @@
       "is a resident of Boca Grande, Fla."
     ],
     "top-schools": {
-      "Yale University": [
-        "B.S., Yale University, 1952"
-      ],
       "Columbia University": [
         "graduate studies, Columbia University, New York City, 1953-1954"
+      ],
+      "Yale University": [
+        "B.S., Yale University, 1952"
       ]
     }
   },
@@ -56908,14 +56853,14 @@
       "is a resident of Santa Monica, Calif.."
     ],
     "top-schools": {
-      "University of California at Berkeley": [
-        "B.A., University of California, Berkeley, Calif., 1964"
+      "Princeton University": [
+        "M.P.A., Princeton University, Princeton, N.J., 1966"
       ],
       "Harvard University": [
         "J.D., Harvard University, Cambridge, Mass., 1969"
       ],
-      "Princeton University": [
-        "M.P.A., Princeton University, Princeton, N.J., 1966"
+      "University of California at Berkeley": [
+        "B.A., University of California, Berkeley, Calif., 1964"
       ]
     }
   },
@@ -57331,14 +57276,14 @@
       "is a resident of Bethesda, Md."
     ],
     "top-schools": {
-      "University of California at Berkeley": [
-        "Ph.D., University of California, Berkeley, Calif., 1973"
+      "Haverford College": [
+        "B.A., Haverford College, Haverford, Pa., 1957"
       ],
       "Harvard University": [
         "M.P.A., Harvard University, Cambridge, Mass., 1967"
       ],
-      "Haverford College": [
-        "B.A., Haverford College, Haverford, Pa., 1957"
+      "University of California at Berkeley": [
+        "Ph.D., University of California, Berkeley, Calif., 1973"
       ]
     }
   },
@@ -58204,11 +58149,11 @@
       "died on August 30, 2005, in Washington, D.C."
     ],
     "top-schools": {
-      "Swarthmore College": [
-        "A.B., Swarthmore College, Swarthmore, Pa., 1942"
-      ],
       "Columbia University": [
         "L.L.B., Columbia University Law School, New York, N.Y., 1948"
+      ],
+      "Swarthmore College": [
+        "A.B., Swarthmore College, Swarthmore, Pa., 1942"
       ]
     }
   },
@@ -58810,11 +58755,11 @@
       "is a resident of Washington, D.C."
     ],
     "top-schools": {
-      "University of Chicago": [
-        "graduated from University of Chicago, 1948"
-      ],
       "University of Notre Dame": [
         "associate professor of law, Notre Dame Law School 1959-1960"
+      ],
+      "University of Chicago": [
+        "graduated from University of Chicago, 1948"
       ],
       "Bryn Mawr College": [
         "president of the College at Old Westbury (State University of New York) 1966-1970, and Bryn Mawr College 1970-1978"
@@ -59787,10 +59732,10 @@
       "unsuccessful candidate for reelection to the One Hundred Fourth Congress."
     ],
     "top-schools": {
-      "Northwestern University": [
+      "Stanford University": [
         "B.S., Northwestern University, 1981, J.D., Stanford University, 1984"
       ],
-      "Stanford University": [
+      "Northwestern University": [
         "B.S., Northwestern University, 1981, J.D., Stanford University, 1984"
       ]
     }
@@ -60273,10 +60218,10 @@
       "was not a candidate for reelection in 1994, but was an unsuccessful candidate for election to the United States Senate."
     ],
     "top-schools": {
-      "Harvard University": [
+      "Stanford University": [
         "B.A., B.S., Stanford University, 1970, M.B.A., Harvard University, 1972"
       ],
-      "Stanford University": [
+      "Harvard University": [
         "B.A., B.S., Stanford University, 1970, M.B.A., Harvard University, 1972"
       ]
     }
@@ -60883,11 +60828,11 @@
       "was an unsuccessful candidate for the nomination to the United States House of Representatives in 2014."
     ],
     "top-schools": {
-      "University of Pennsylvania": [
-        "B.A., University of Pennsylvania, 1963"
-      ],
       "Columbia University": [
         "CBS News Foundation Fellow, Columbia University, New York, N.Y."
+      ],
+      "University of Pennsylvania": [
+        "B.A., University of Pennsylvania, 1963"
       ]
     }
   },
@@ -63054,10 +62999,10 @@
       "member, National Commission on Terrorist Attacks upon the United States (9-11 Commission) 2003-2004."
     ],
     "top-schools": {
-      "Dartmouth College": [
+      "Columbia University": [
         "graduated, Dartmouth College, Hanover, N.H., 1950, Columbia University Law School, New York City 1953"
       ],
-      "Columbia University": [
+      "Dartmouth College": [
         "graduated, Dartmouth College, Hanover, N.H., 1950, Columbia University Law School, New York City 1953"
       ]
     }
@@ -63654,11 +63599,11 @@
       "died on November 23, 2011, in La Ca\u00f1ada Flintridge, Calif."
     ],
     "top-schools": {
-      "University of California at Los Angeles": [
-        "B.A., University of California-Los Angeles, Los Angeles, Calif., 1943"
-      ],
       "University of Southern California": [
         "J.D., University of Southern California, Los Angeles, Calif., 1949"
+      ],
+      "University of California at Los Angeles": [
+        "B.A., University of California-Los Angeles, Los Angeles, Calif., 1943"
       ]
     }
   },
@@ -64255,14 +64200,14 @@
       "elected as a Democrat to the One Hundred Third and One Hundred Fourth Congress and served from January 3, 1993, until his resignation on December 15, 1995."
     ],
     "top-schools": {
-      "University of Southern California": [
-        "B.A., University of Southern California, 1978"
+      "Princeton University": [
+        "attended Princeton University, 1974-1976"
       ],
       "Georgetown University": [
         "J.D., Georgetown University School of Law, 1981"
       ],
-      "Princeton University": [
-        "attended Princeton University, 1974-1976"
+      "University of Southern California": [
+        "B.A., University of Southern California, 1978"
       ]
     }
   },
@@ -65891,7 +65836,7 @@
       "Yale University": [
         "LL.B., Yale University Law School, New Haven, Conn., 1967"
       ],
-      "Wesleyan University": [
+      "Wesleyan University of Middletown, CT": [
         "B.A., Wesleyan University, Middletown, Conn., 1964"
       ]
     }
@@ -66670,11 +66615,11 @@
       "was not a candidate for reelection to the One Hundred Seventh Congress."
     ],
     "top-schools": {
-      "Yale University": [
-        "J.D., Yale University School of Law, 1979"
-      ],
       "Haverford College": [
         "B.A., Haverford College, 1976"
+      ],
+      "Yale University": [
+        "J.D., Yale University School of Law, 1979"
       ]
     }
   },
@@ -69024,12 +68969,12 @@
       "died on February 17, 2011, in Long Beach, Calif."
     ],
     "top-schools": {
-      "Harvard University": [
-        "M.P.A., Harvard University, Cambridge, Mass., 1955"
-      ],
       "Stanford University": [
         "A.B., Stanford University, Stanford, Calif., 1953",
         "Ph.D., Stanford University, Stanford, Calif., 1958"
+      ],
+      "Harvard University": [
+        "M.P.A., Harvard University, Cambridge, Mass., 1955"
       ]
     }
   },
@@ -72840,11 +72785,11 @@
       "not a candidate for reelection to the One Hundred Tenth Congress in 2006."
     ],
     "top-schools": {
-      "Northwestern University": [
-        "B.A., Northwestern University, Evanston, Ill., 1965"
-      ],
       "Stanford University": [
         "M.B.A., Stanford University, Stanford, Calif., 1967"
+      ],
+      "Northwestern University": [
+        "B.A., Northwestern University, Evanston, Ill., 1965"
       ]
     }
   },
@@ -72883,11 +72828,11 @@
       "unsuccessful candidate for reelection to the One Hundred Tenth Congress in 2006."
     ],
     "top-schools": {
-      "Johns Hopkins University": [
-        "M.A., School of Advanced International Studies of Johns Hopkins University, Washington, D.C., 1966"
-      ],
       "Princeton University": [
         "B.A., Princeton University, Princeton. N.J., 1964"
+      ],
+      "Johns Hopkins University": [
+        "M.A., School of Advanced International Studies of Johns Hopkins University, Washington, D.C., 1966"
       ]
     }
   },
@@ -73436,11 +73381,11 @@
       "unsuccessful candidate for reelection to the One Hundred Tenth Congress in 2006."
     ],
     "top-schools": {
-      "Harvard University": [
-        "M.P.A., Harvard University, Cambridge, Mass., 1979"
-      ],
       "Haverford College": [
         "graduated from Haverford College, Haverford, Pa., 1965"
+      ],
+      "Harvard University": [
+        "M.P.A., Harvard University, Cambridge, Mass., 1979"
       ]
     }
   },
@@ -73934,11 +73879,11 @@
       "Secretary of State in the Cabinet of President Barack Obama, 2009-2013."
     ],
     "top-schools": {
-      "Wellesley College": [
-        "graduated Wellesley College, BA 1969"
-      ],
       "Yale University": [
         "graduated Yale Law School, JD 1973"
+      ],
+      "Wellesley College": [
+        "graduated Wellesley College, BA 1969"
       ]
     }
   },
@@ -74446,11 +74391,7 @@
       "unsuccessful candidate for nomination for Governor of Ohio in 1986",
       "elected as a Republican to the One Hundred First and to the nine succeeding Congresses, served until his death on September 5, 2007. (January 3, 1989-September 5, 2007)."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "B.A., Ohio Wesleyan University, Delaware, Ohio, 1961"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "G000280",
@@ -74567,11 +74508,7 @@
       "elected as a Republican to the One Hundred Second and to the eight succeeding Congresses (January 3, 1991-January 3, 2009)",
       "was not a candidate for reelection to the One Hundred Eleventh Congress in 2008."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "B.A., Ohio Wesleyan University, Delaware, Ohio, 1958"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "H000762",
@@ -76325,11 +76262,11 @@
       "not a candidate for relection in 2010, but was an unsuccessful nominee to the United States Senate."
     ],
     "top-schools": {
-      "Georgetown University": [
-        "LL.B., Georgetown University School of Law, Washington, D.C., 1964"
-      ],
       "Hamilton College": [
         "B.S., Hamilton College, Clinton, N.Y., 1961"
+      ],
+      "Georgetown University": [
+        "LL.B., Georgetown University School of Law, Washington, D.C., 1964"
       ]
     }
   },
@@ -78913,14 +78850,14 @@
       "elected as a Democrat to the One Hundred Seventh and to the five succeeding Congresses until her resignation on February 28, 2011 (January 3, 2001-February 28, 2011)."
     ],
     "top-schools": {
+      "Georgetown University": [
+        "adjunct professor, Georgetown University Law Center, Washington, D.C., 1974-1975"
+      ],
       "Smith College": [
         "B.A., Smith College, Northampton, Mass., 1966, J.D., Harvard University School of Law, Cambridge, Mass., 1969"
       ],
       "Harvard University": [
         "B.A., Smith College, Northampton, Mass., 1966, J.D., Harvard University School of Law, Cambridge, Mass., 1969"
-      ],
-      "Georgetown University": [
-        "adjunct professor, Georgetown University Law Center, Washington, D.C., 1974-1975"
       ]
     }
   },
@@ -79200,14 +79137,14 @@
       "elected as the 44th President of the United States on November 4, 2008, and was inaugurated on January 20, 2009."
     ],
     "top-schools": {
+      "Columbia University": [
+        "received a B.A. in 1983 from Columbia University, New York City"
+      ],
       "University of Chicago": [
         "lecturer on constitutional law, University of Chicago"
       ],
       "Harvard University": [
         "studied law at Harvard University, where he became the first African American president of the Harvard Law Review, and received J.D. in 1991"
-      ],
-      "Columbia University": [
-        "received a B.A. in 1983 from Columbia University, New York City"
       ]
     }
   },
@@ -80010,11 +79947,11 @@
       "unsuccessful candidate for reelection to the One Hundred Thirteenth Congress in 2012."
     ],
     "top-schools": {
-      "Northwestern University": [
-        "J.D., Northwestern University School of Law, Evanston, Ill., 1963"
-      ],
       "Stanford University": [
         "B.A., Stanford University, Stanford, Calif., 1959"
+      ],
+      "Northwestern University": [
+        "J.D., Northwestern University School of Law, Evanston, Ill., 1963"
       ]
     }
   },
@@ -80314,11 +80251,11 @@
       "was an unsuccessful candidate for nomination to the United States House of Representatives in 2014."
     ],
     "top-schools": {
-      "Cornell University": [
-        "B.F.A., Cornell University, Ithaca, N.Y., 1984"
-      ],
       "Georgetown University": [
         "J.D., Georgetown University, Washington, D.C., 1987"
+      ],
+      "Cornell University": [
+        "B.F.A., Cornell University, Ithaca, N.Y., 1984"
       ]
     }
   },
@@ -80597,11 +80534,11 @@
       "unsuccessful candidate for election to the One Hundred Fourteenth Congress in 2014."
     ],
     "top-schools": {
-      "Cornell University": [
-        "M.D., Cornell University Medical College, Ithaca, N.Y., 1985"
-      ],
       "Princeton University": [
         "A.B., Princeton University, Princeton, N.J., 1981"
+      ],
+      "Cornell University": [
+        "M.D., Cornell University Medical College, Ithaca, N.Y., 1985"
       ]
     }
   },
@@ -81313,11 +81250,11 @@
       "unsuccessful candidate for reelection to the One Hundred Thirteenth Congress in 2012."
     ],
     "top-schools": {
-      "University of California at Los Angeles": [
-        "B.A., University of California, Los Angeles, Calif., 1984"
-      ],
       "University of Southern California": [
         "M.B.A., University of Southern California, Los Angeles, Calif., 1996"
+      ],
+      "University of California at Los Angeles": [
+        "B.A., University of California, Los Angeles, Calif., 1984"
       ]
     }
   },
@@ -81853,11 +81790,7 @@
       "resumed prior party affiliation as a Republican at the start of the One Hundred Fifth Congress",
       "reelected as a Republican to the One Hundred Sixth and to the seven succeeding Congresses until her resignation on January 22, 2013 (November 5, 1996-January 22, 2013)."
     ],
-    "top-schools": {
-      "Wesleyan University": [
-        "B.A., Ohio Wesleyan University, Delaware, Ohio, 1972"
-      ]
-    }
+    "top-schools": {}
   },
   {
     "bioguide_id": "K000148",
@@ -82788,11 +82721,11 @@
       "was not a candidate for reelection to the One Hundred Fourteenth Congress in 2014."
     ],
     "top-schools": {
-      "University of California at Los Angeles": [
-        "B.A., University of California, Los Angeles, Calif."
-      ],
       "University of Southern California": [
         "M.B.T., University of Southern California, Los Angeles, Calif., 1977"
+      ],
+      "University of California at Los Angeles": [
+        "B.A., University of California, Los Angeles, Calif."
       ]
     }
   },
@@ -83143,11 +83076,11 @@
       "unsuccessful candidate for nomination for the United States Senate in 2013."
     ],
     "top-schools": {
-      "Swarthmore College": [
-        "faculty, Swarthmore College, Swarthmore, Pa., 1980-1988"
-      ],
       "Carleton College": [
         "B.A., Carleton College, Northfield, Minn., 1970"
+      ],
+      "Swarthmore College": [
+        "faculty, Swarthmore College, Swarthmore, Pa., 1980-1988"
       ]
     }
   },
@@ -83928,14 +83861,14 @@
       "unsuccessful candidate for reelection to the One Hundred Fourteenth Congress in 2014."
     ],
     "top-schools": {
-      "Harvard University": [
-        "M.P.P., Harvard University, Cambridge, Mass., 1995"
-      ],
       "Columbia University": [
         "M.S., Columbia University, New York, N.Y., 1991"
       ],
       "Brown University": [
         "B.A., Brown University, Providence, R.I., 1990"
+      ],
+      "Harvard University": [
+        "M.P.P., Harvard University, Cambridge, Mass., 1995"
       ]
     }
   },

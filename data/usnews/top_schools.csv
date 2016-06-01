@@ -41,7 +41,7 @@ rank,category,name,alias_pattern
 14,liberal-arts,Harvey Mudd College
 14,liberal-arts,Smith College
 14,liberal-arts,Washington and Lee University
-14,liberal-arts,Wesleyan University
+14,liberal-arts,"Wesleyan University of Middletown, CT","Wesleyan University.{1,10}Middletown"
 19,liberal-arts,Colby College
 19,liberal-arts,Colgate University
 19,liberal-arts,Grinnell College
